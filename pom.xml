@@ -90,7 +90,3 @@
 	</build>
 
 </project>
-<properties>
-  <sonar.organization>devopsengin33r</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
